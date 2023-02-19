@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Front-end Developer",
+      "company": "ABC Inc.",
+      "location": "New York",
+      "description": "We are looking for a skilled front-end developer to join our team.",
+      "date_posted": "2022-12-01"
+    },
+    {
+      "title": "Back-end Developer",
+      "company": "XYZ Co.",
+      "location": "San Francisco",
+      "description": "We are seeking a back-end developer to work on our cloud platform.",
+      "date_posted": "2022-11-15"
+    },
+    {
+      "title": "Full-stack Developer",
+      "company": "123 LLC",
+      "location": "Boston",
+      "description": "We are looking for a full-stack developer to help us build our e-commerce platform.",
+      "date_posted": "2022-10-31"
+    }
+  ]
+  
